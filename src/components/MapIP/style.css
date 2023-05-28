@@ -1,0 +1,14 @@
+
+.mapContainer {
+    background-color: rgb(226, 226, 225);
+
+    height: 100vh;
+
+    position: sticky;
+    bottom: 0;
+}
+
+
+.leaflet-container {
+    height: 100%;
+}
